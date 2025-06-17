@@ -1,0 +1,108 @@
+[buildPlans.IosevkaCk]
+family = "Iosevka-ck"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = true
+
+[buildPlans.IosevkaCk.variants.design]
+five = "upright-arched-serifless"
+capital-w = "straight-vertical-sides-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+f = "flat-hook-serifless"
+k = "symmetric-touching-serifless"
+m = "serifless"
+t = "flat-hook-short-neck"
+y = "straight-serifless"
+long-s = "bent-hook-descending-middle-serifed"
+eszet = "sulzbacher-descending-middle-serifed"
+lower-eth = "straight-bar"
+capital-delta = "straight"
+lower-lambda = "tailed-turn"
+lower-chi = "straight-serifed"
+partial-derivative = "straight-bar"
+tittle = "square"
+diacritic-dot = "square"
+punctuation-dot = "square"
+braille-dot = "square"
+tilde = "low"
+asterisk = "hex-high"
+underscore = "above-baseline"
+caret = "medium"
+paren = "large-contour"
+brace = "straight"
+guillemet = "straight"
+ampersand = "closed"
+dollar = "open"
+cent = "open-cap"
+percent = "dots"
+bar = "force-upright"
+question = "smooth"
+pilcrow = "low"
+decorative-angle-brackets = "tall"
+lig-ltgteq = "flat"
+lig-neq = "slightly-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "with-notch"
+
+[buildPlans.IosevkaCk.variants.italic]
+five = "upright-arched-serifless"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+f = "serifless"
+g = "double-storey"
+j = "serifed"
+k = "symmetric-touching-serifless"
+m = "serifless"
+t = "flat-hook-short-neck"
+y = "straight-serifless"
+long-s = "bent-hook-descending-middle-serifed"
+eszet = "sulzbacher-descending-middle-serifed"
+lower-eth = "straight-bar"
+capital-delta = "straight"
+lower-lambda = "tailed-turn"
+lower-chi = "straight-serifed"
+partial-derivative = "straight-bar"
+tittle = "round"
+diacritic-dot = "round"
+punctuation-dot = "square"
+braille-dot = "round"
+tilde = "low"
+asterisk = "hex-high"
+underscore = "above-baseline"
+caret = "medium"
+paren = "large-contour"
+brace = "straight"
+guillemet = "straight"
+ampersand = "closed"
+dollar = "open"
+cent = "open-cap"
+percent = "dots"
+bar = "force-upright"
+pilcrow = "low"
+lig-ltgteq = "flat"
+lig-neq = "slightly-slanted"
+lig-equal-chain = "with-notch"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "with-notch"
+lig-double-arrow-bar = "without-notch"
+
+[buildPlans.IosevkaCk.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.IosevkaCk.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[buildPlans.IosevkaCk.widths.UltraCondensed]
+shape = 416
+menu = 1
+css = "ultra-condensed"
+
+[buildPlans.IosevkaCk.widths.Extended]
+shape = 720
+menu = 7
+css = "expanded"
